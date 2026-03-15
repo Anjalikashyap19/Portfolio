@@ -75,7 +75,7 @@ function App() {
 
           <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
             <a
-              href="/public/akresume.pdf"
+              href="/akresume.pdf"
                download
               className="resume-btn"
              
